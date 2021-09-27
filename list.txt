@@ -7,3 +7,4 @@ yogurt
 ice
 fruits
 eggs and cereals
+flowers
