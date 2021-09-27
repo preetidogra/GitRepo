@@ -6,3 +6,4 @@ milk
 yogurt
 ice
 fruits
+eggs and cereals
